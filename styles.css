@@ -1,0 +1,15 @@
+/* Adding gradient */
+body {
+	background: linear-gradient(yellow,lightyellow);
+}
+/* Adding rounded border */
+header {
+	width: 140px;
+	height: 70px;
+	border: 1px;
+	color: white;
+	padding: 20px;
+	border-radius: 50%;
+	background: blue;
+	text-align: center;
+}
